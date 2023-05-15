@@ -32,6 +32,11 @@ Co-authored-by: kelvinhenri99 <kelvin5henri@gmail.com>
     ```sh
     php artisan key:generate
     ```
+    
+    9. Generate JWT key
+      ```sh
+      php artisan jwt:secret
+      ```
 
 ## Usage
 
